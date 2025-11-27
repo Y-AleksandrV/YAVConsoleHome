@@ -11,7 +11,7 @@ namespace YAVConsoleHome
         public NewClassYAV
          
         {
-            Console.WriteLine("Разработчик 1");
+            Console.WriteLine("Разработчик master");
             
         }    
 
